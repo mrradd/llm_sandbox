@@ -38,3 +38,4 @@ protobuf==3.20.2
 wandb
 requests
 tiktoken
+playwright
