@@ -180,3 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 _llm_sandbox.code-workspace
+.gradio/certificate.pem
